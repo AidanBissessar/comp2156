@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
-  },
+  "test": "echo \"Warning: No tests created yet.\""
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
